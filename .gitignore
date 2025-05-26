@@ -8,7 +8,7 @@ venv/ .env/
 
 Audio files
 
-audio_files/.mp3 audio_files/.wav
+audio_files/
 
 IDE and editor files
 
