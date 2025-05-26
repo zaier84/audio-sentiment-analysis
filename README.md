@@ -135,4 +135,4 @@ Contributions are welcome! Please:
 
 ## Contact
 
-For issues or questions, please open an issue on the [GitHub repository](https://github.com/Zaier-Ahmad/IntelligentSentimentAnalysis).
+For issues or questions, please open an issue on the [GitHub repository](https://github.com/zaier84/audio-sentiment-analysis).
