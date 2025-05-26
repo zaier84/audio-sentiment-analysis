@@ -1,0 +1,19 @@
+Python
+
+pycache/ *.py[cod] *.pyc
+
+Virtual environment
+
+venv/ .env/
+
+Audio files
+
+audio_files/.mp3 audio_files/.wav
+
+IDE and editor files
+
+.vscode/ .idea/
+
+System files
+
+.DS_Store Thumbs.db
